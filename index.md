@@ -37,10 +37,8 @@ My skills was further improved in College, especially in the languages C, C++ an
 ---
 
 ## Relevant Work
-  -
-  -
-  -
-  -
+
+Check my Github page
 
 ---
 
