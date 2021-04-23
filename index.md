@@ -15,13 +15,16 @@ A junior student of Computer Science in UP Diliman who excels in Python, C++, Ja
 ## What I Do
 
 ### Skills
-C++| 85%
-C | 80%
-CSS  | 70%
-HTML5 | 70%
-JavaScript |  80%
-Java | 75%
-Python | 80%
+
+| Language  | Proficiency   |
+|---|---|
+| C++ | 85% |
+| C | 80% |
+| CSS | 70% |
+| HTML5 | 70% |
+| JavaScript | 80% |
+| Java | 75% |
+| Python | 80% |
 
 ### I have been Passionate about coding ever since Highschool
 
