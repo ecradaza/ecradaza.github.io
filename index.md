@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## Hi! I am Ellie!
 
-You can use the [editor on GitHub](https://github.com/ecradaza/ecradaza.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Aspiring Designer + Developer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Eleanor Radaza
 
-```markdown
-Syntax highlighted code block
+A junior student of Computer Science in UP Diliman who excels in Python, C++, JavaScript, and CSS. I am open to learn and experience anything regarding computers. See my work below.
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+## What I Do
 
-1. Numbered
-2. List
+### Skills
+C++| 85%
+C | 80%
+CSS  | 70%
+HTML5 | 70%
+JavaScript |  80%
+Java | 75%
+Python | 80%
 
-**Bold** and _Italic_ and `Code` text
+### I have been Passionate about coding ever since Highschool
 
-[Link](url) and ![Image](src)
-```
+I studied Highschool in Philippine Science High School - Central Mindanao Campus. Ever since I learned how to code, I already felt that it was my calling. Back then, we were taught to HTML, C#, Java, HTML5, JavaScript and Python.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### I still continue to improve
 
-### Jekyll Themes
+My skills was further improved in College, especially in the languages C, C++ and Python. We also touched on MySQL, OCaml, Google Script and many more. This made me become even more adaptable to different environments using different languages.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ecradaza/ecradaza.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+## Relevant Work
+  -
+  -
+  -
+  -
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+## Let's Work Together
+
+### Contact Details
+
+  Third Street, Mindanao State University
+
+  Marawi City 9700
+
+  +639215249858
+
+  ecradaza@up.edu.ph
