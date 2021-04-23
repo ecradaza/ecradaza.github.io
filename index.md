@@ -57,13 +57,13 @@ My skills was further improved in College, especially in the languages C, C++ an
 ## Relevant Coursework
 - Programming: JavaScript, C++, C, CSS
 - Studied: 
- - Data Structures and Algorithms
- - Computer Networks
- - Introduction to Computer Security
- - Programming Languages
- - Artificial Intelligence
- - Database Systems
- - Software Engineering
+  - Data Structures and Algorithms
+  - Computer Networks
+  - Introduction to Computer Security
+  - Programming Languages
+  - Artificial Intelligence
+  - Database Systems
+  - Software Engineering
 
 ## Others
 
