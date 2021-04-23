@@ -16,7 +16,7 @@ A junior student of Computer Science in UP Diliman who excels in Python, C++, Ja
 
 ### Skills
 
-| Language  | Proficiency   |
+| Programming Language  | Proficiency   |
 |---|---|
 | C++ | 85% |
 | C | 80% |
@@ -25,6 +25,17 @@ A junior student of Computer Science in UP Diliman who excels in Python, C++, Ja
 | JavaScript | 80% |
 | Java | 75% |
 | Python | 80% |
+
+### Languages
+- Visayan – native language
+-	Filipino – native language
+-	English – speak, read, and write fluently
+
+#### Others
+- Graphic design skills in using Adobe Photoshop, Adobe Illustrator, and Inkscape
+-	Good communication skills
+-	Able to work in multiple projects at the same time
+-	Open to learning new skills
 
 ### I have been Passionate about coding ever since Highschool
 
@@ -36,7 +47,25 @@ My skills was further improved in College, especially in the languages C, C++ an
 
 ---
 
-## Relevant Work
+## Education
+
+### University of the Philippines Diliman
+ - BS Computer Science
+ - Expected to graduate	     June 2022
+ - [Curriculum](https://dcs.upd.edu.ph/academics/undergraduate-program/)
+
+## Relevant Coursework
+- Programming: JavaScript, C++, C, CSS
+- Studied: 
+ - Data Structures and Algorithms
+ - Computer Networks
+ - Introduction to Computer Security
+ - Programming Languages
+ - Artificial Intelligence
+ - Database Systems
+ - Software Engineering
+
+## Others
 
 Check my [Github page](https://github.com/ecradaza?tab=repositories)
 
