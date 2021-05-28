@@ -32,7 +32,6 @@ A junior student of Computer Science in UP Diliman who excels in Python, C++, Ja
 -	English – speak, read, and write fluently
 
 #### Others
-- Graphic design skills in using Adobe Photoshop, Adobe Illustrator, and Inkscape
 -	Good communication skills
 -	Able to work in multiple projects at the same time
 -	Open to learning new skills
@@ -55,7 +54,7 @@ My skills was further improved in College, especially in the languages C, C++ an
  - [Curriculum](https://dcs.upd.edu.ph/academics/undergraduate-program/)
 
 ## Relevant Coursework
-- Programming: JavaScript, C++, C, CSS
+- Programming: JavaScript, C++, C, CSS, MySQL, Python
 - Studied: 
   - Data Structures and Algorithms
   - Computer Networks
